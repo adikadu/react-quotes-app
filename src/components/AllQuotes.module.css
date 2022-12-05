@@ -1,0 +1,29 @@
+.all-quotes {
+  margin: 6rem auto 0;
+  width: 70%;
+}
+
+.all-quotes button {
+  border: none;
+  padding: 0.4rem 0.6rem;
+  border-radius: 5px;
+  background-color: #0093af;
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-bottom: 0.6rem;
+}
+
+.all-quotes button:hover {
+  background-color: #04b3d6;
+}
+
+.all-quotes button:active {
+  transform: scale(0.98);
+}
+
+.all-quotes hr {
+  border-top: 1px solid #04b3d6;
+  border-bottom: none;
+  margin-bottom: 1rem;
+}

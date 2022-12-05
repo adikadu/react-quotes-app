@@ -1,0 +1,22 @@
+.top-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: red;
+  justify-content: space-between;
+  padding: 1rem 4rem 1rem 2rem;
+  background-color: #0093af;
+  color: #fff;
+}
+
+.list {
+  width: 20%;
+  justify-content: space-around;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+li a.active {
+  color: #9df5f5;
+}

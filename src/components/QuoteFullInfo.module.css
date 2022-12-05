@@ -1,0 +1,21 @@
+.not-found {
+  margin-top: 6rem;
+  color: red;
+  font-size: 1.6rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.move-to-end {
+  align-self: flex-end;
+  color: #c7f0f0;
+  font-style: italic;
+}
+
+.load-comment-link {
+  display: block;
+  text-align: center;
+  margin-top: 4rem;
+  text-decoration: none;
+  color: #0093af;
+}

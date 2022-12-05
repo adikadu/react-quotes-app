@@ -1,0 +1,39 @@
+.card {
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 0 5px 11px rgba(0, 0, 0, 0.2);
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.form-style {
+  background-color: #fff;
+  text-align: center;
+  width: 40%;
+  margin-top: 6rem;
+}
+
+.quote-style {
+  background-color: #89c2ce;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.8rem;
+}
+
+.full-quote {
+  margin-top: 6rem;
+  background-color: rgba(0, 0, 0, 0.623);
+  width: 45%;
+  color: #fff;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.comment-box {
+  background-color: rgba(0, 0, 0, 0.623);
+  width: 50%;
+  margin-top: 1rem;
+  color: #fff;
+  font-size: 1.4rem;
+}

@@ -1,0 +1,43 @@
+.comment-btn {
+  border: none;
+  background-color: #0093af;
+  color: #fff;
+  padding: 0.4rem 0.8rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  border-radius: 5px;
+}
+
+.comment-btn:hover {
+  background-color: #04b3d6;
+}
+
+.comment-btn:active {
+  transform: scale(0.98);
+}
+
+.add-comment-form {
+  justify-content: space-between;
+  gap: 1rem;
+  width: 60%;
+  margin: 2rem auto 2rem;
+}
+
+.add-comment-form input {
+  flex: 1;
+  border: none;
+  padding: 0.4rem 0.8rem;
+  font-size: 1.2rem;
+  background-color: rgba(0, 0, 0, 0.623);
+  color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 5px 11px rgba(4, 179, 214, 0.349);
+}
+
+.add-comment-form input:focus {
+  outline: 2px solid #04b3d6;
+}
+
+.add-comment-form input::placeholder {
+  color: inherit;
+}
